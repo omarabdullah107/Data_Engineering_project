@@ -8,8 +8,8 @@ Basic project structure
 ------------------------
 
 - The project is consisted of the two files:-
- - DE_Project.ipynb
- - README.md
+  - DE_Project.ipynb
+  - README.md
 
 
 EDA Process Explained
