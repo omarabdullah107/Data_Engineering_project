@@ -72,12 +72,12 @@ Project Goals and Motivation for it
 --------------------------------
 This project is a school project that was assigned to us, to document the EDA process that we take towards this dataset. We were tasked to come up with a few research questions and explore them using the dataset at hand and indeed that is what we do. the Research questions proposed are:
 
-  - 
-  - 
-  -
-  -
-  -
-  -
+  - Does the price of a vehicle have a positive correlation between type and transmission?
+  - Does the condition and the vehicle brand affect the price of the car ?
+  - As the production date gets older on a certain model , does the price increase or decrease ?
+  - Does production year and condition affect the milage covered ?
+  - Does the Fuel_type determine the amount of displacement cm3 and the co2_emissions ?
+  - Does the type of the car affects the number of doors ?
   
   
   
